@@ -1,0 +1,9 @@
+streamlit
+openai
+pymupdf
+python-docx
+fpdf2
+gTTS
+# Facoltativo: serve solo a scaricare il diagramma di flusso come immagine.
+# Richiede anche i programmi Graphviz installati sul sistema (https://graphviz.org/download/).
+graphviz
